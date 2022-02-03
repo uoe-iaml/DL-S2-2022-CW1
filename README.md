@@ -1,5 +1,7 @@
 # Introductory Applied Machine Learning (IAML) Coursework 1 - Semester 2, January 2022.
 
+## This coursework does not count towards your grade, but it is excellent practice for you in process, coding and explanation, for Courswork 2, which counts for 30% of your mark.  We strongly encourage you to work on it and submit it as if it did count towards your mark.  It will not be marked individually but we will give some class-wide feedback.
+
 ### Author: Nigel Goddard
 
 ## Important Instructions
@@ -13,7 +15,7 @@ You need to set up and activate your environment as you would do for your labs, 
 4. Click on "clone" to import all the lab materials to your Noteable space.
 5. Click on **IAML-21-22-S2-DL-CW1.ipynb** to start up the assignment Notebook.
 
-**You will need to use Noteable to create one of the files you will submit (the PDF)**.  Do **NOT** create the PDF in some other way, we will not be able to mark it.  If you want to develop your answers in your own environment, you should make sure you are using the same packages we are using, by running the cell which does imports below.
+**You will need to use Noteable to create one of the files you will submit (the PDF)**.  Do **NOT** create the PDF in some other way.  If you want to develop your answers in your own environment, you should make sure you are using the same packages we are using, by running the cell which does imports below.
 
 Read the instructions in this notebook carefully, especially where asked to name variables with a specific name. Wherever you are required to produce code you should use code cells, otherwise you should use markdown cells to report results and explain answers. In most cases we indicate the nature of answer we are expecting (code/text), and also provide the required code/markdown cell.
 
