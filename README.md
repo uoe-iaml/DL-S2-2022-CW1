@@ -11,9 +11,8 @@
 You need to set up and activate your environment as you would do for your labs, see Learn section on Labs.  In brief:
 1. Log into the Noteable and start or reconnect to a Standard Notebook.
 2. Cick on the "+GitRepo" button, then copy this link, https://github.com/uoe-iaml/DL-S2-2022-CW1, to the "Git Repository URL" box in the dialog.
-3. Replace "master" with "main" in the "branch" box in the dialog.
-4. Click on "clone" to import all the lab materials to your Noteable space.
-5. Click on **IAML-21-22-S2-DL-CW1.ipynb** to start up the assignment Notebook.
+3. Click on "clone" to import all the lab materials to your Noteable space.
+4. Click on **IAML-21-22-S2-DL-CW1.ipynb** to start up the assignment Notebook.
 
 **You will need to use Noteable to create one of the files you will submit (the PDF)**.  Do **NOT** create the PDF in some other way.  If you want to develop your answers in your own environment, you should make sure you are using the same packages we are using, by running the cell which does imports below.
 
